@@ -5,5 +5,12 @@
 	"tags": [
 		"home",
 		"green"
+	],
+	"id": 3,
+	"name": "A green door 3",
+	"price": 12.5,
+	"tags": [
+		"home",
+		"green"
 	]
 }
