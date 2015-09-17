@@ -1,13 +1,16 @@
 {
- "phoneNumber":
-     [
-         {
-           "type": "home",
-           "number": "212 555-1234"
-         },
-         {
-           "type": "fax",
-           "number": "646 555-4567"
-         }
-     ]
- }
+	"phoneNumber": [
+		{
+			"type": "home",
+			"number": "212 555-1234"
+		},
+		{
+			"type": "fax",
+			"number": "646 555-4567"
+		},
+		{
+			"type": "internet",
+			"number": "www.sdksdfpo.fr"
+		}
+	]
+}
