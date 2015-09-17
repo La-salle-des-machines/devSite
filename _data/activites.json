@@ -1,5 +1,5 @@
 {
-     "firstName": "John",
+    [ "firstName": "John",
      "lastName": "Smith",
      "age": 25,
      "address":
@@ -19,5 +19,6 @@
            "type": "fax",
            "number": "646 555-4567"
          }
+     ]
      ]
  }
