@@ -1,5 +1,7 @@
-{"utilisateurs":
-    [ "firstName": "John",
+{
+"utilisateurs":
+[ 
+    "firstName": "John",
      "lastName": "Smith",
      "age": 25,
      "address":
@@ -20,5 +22,5 @@
            "number": "646 555-4567"
          }
      ]
-     ]
+  ]
  }
